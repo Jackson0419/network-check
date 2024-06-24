@@ -985,7 +985,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 		</div>
 							</div>
 		</section>
-							</div>
+							</div> 
 		<script>document.body.classList.remove("no-js");</script>	<script>
 	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
 		document.body.classList.add( 'is-IE' );
