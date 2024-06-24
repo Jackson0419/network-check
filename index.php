@@ -922,7 +922,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-34f2959 elementor-widget elementor-widget-text-editor" data-id="34f2959" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>© 2023 broadband-quote.com 網上格價王&nbsp;</p>						</div>
+							<p>© 2024 networkplancheckings.com 網上格價王&nbsp;</p>						</div>
 				</div>
 					</div>
 		</div>
