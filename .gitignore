@@ -1,0 +1,9 @@
+
+*.vsidx
+.vs/network-check/ColorByRegexConfig.txt
+.vs/network-check/config/applicationhost.config
+.vs/network-check/v17/.wsuo
+.vs/network-check/v17/DocumentLayout.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/VSWorkspaceState.json
