@@ -11,6 +11,7 @@
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
 <style>
+ 
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -24,6 +25,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+	<style>
+	.elementor-button-link.elementor-button.elementor-size-sm.elementor-animation-float1{
+		width : 200px;
+		}
+	
+	</style>
 	<link rel="stylesheet" id="jkit-elements-main-css" href="css/main.css" media="all">
 <link rel="stylesheet" id="wp-block-library-css" href="css/style.min.css" media="all">
 <style id="wp-block-library-theme-inline-css">
@@ -630,16 +637,16 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-ceccb70 elementor-align-center elementor-widget elementor-widget-button" data-id="ceccb70" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhkbn%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhkbn%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
 					</a>
 		</div>
-				</div>
+				</div><br>
 							<div class="elementor-widget-container">
 			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 				<span class="elementor-button-content-wrapper">
 				<span class="elementor-button-text">留資料</span>
 </span>
@@ -674,15 +681,15 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-6d719c0 elementor-align-center elementor-widget elementor-widget-button" data-id="6d719c0" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bpccw%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bpccw%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
 					</a>
 		</div>
-				</div>							<div class="elementor-widget-container">
+				</div>						<br>	<div class="elementor-widget-container">
 			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 				<span class="elementor-button-content-wrapper">
 				<span class="elementor-button-text">留資料</span>
 </span>
@@ -717,15 +724,15 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-807871a elementor-align-center elementor-widget elementor-widget-button" data-id="807871a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bicable%5D寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bicable%5D寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
 					</a>
 		</div>
-				</div>							<div class="elementor-widget-container">
+				</div>	<br>						<div class="elementor-widget-container">
 			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 				<span class="elementor-button-content-wrapper">
 				<span class="elementor-button-text">留資料</span>
 </span>
@@ -764,15 +771,15 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-0889f46 elementor-align-center elementor-widget elementor-widget-button" data-id="0889f46" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
 					</a>
 		</div>
-				</div>							<div class="elementor-widget-container">
+				</div>						<br>	<div class="elementor-widget-container">
 			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 				<span class="elementor-button-content-wrapper">
 				<span class="elementor-button-text">留資料</span>
 </span>
@@ -807,15 +814,15 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-045da40 elementor-align-center elementor-widget elementor-widget-button" data-id="045da40" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bsmartone%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bsmartone%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
 					</a>
 		</div>
-				</div>							<div class="elementor-widget-container">
+				</div>						<br>	<div class="elementor-widget-container">
 			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 				<span class="elementor-button-content-wrapper">
 				<span class="elementor-button-text">留資料</span>
 </span>
@@ -850,15 +857,15 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-a01f26b elementor-align-center elementor-widget elementor-widget-button" data-id="a01f26b" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BCMHK%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BCMHK%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
 					</a>
 		</div>
-				</div>							<div class="elementor-widget-container">
+				</div>					<br>		<div class="elementor-widget-container">
 			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 				<span class="elementor-button-content-wrapper">
 				<span class="elementor-button-text">留資料</span>
 </span>
