@@ -655,8 +655,50 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 		</div>
 				</div>
 					</div>
+		</div>				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-09eba85" data-id="09eba85" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ac609c2 elementor-widget elementor-widget-image" data-id="ac609c2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="225" height="225" src="images/Unknown.png" class="attachment-large size-large wp-image-159" alt="" decoding="async" loading="lazy" srcset="images/Unknown.png 225w, images/Unknown-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" style="width:100%;height:100%;max-width:225px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-e854edc elementor-widget elementor-widget-heading" data-id="e854edc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">中國移動香港</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2abef7d elementor-widget elementor-widget-text-editor" data-id="2abef7d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><em class="qkunPe" style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">中國移動香港</em><span style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">有限公司（簡稱「</span><em class="qkunPe" style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">中國移動香港</em><span style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">」或「CMHK」）是香港一家流動電訊網絡商，成立於1994年6月28日，現為中國移動通信有限公司全資附屬機構。</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9d93f90 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9d93f90" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-20e0ec79" data-id="20e0ec79" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a01f26b elementor-align-center elementor-widget elementor-widget-button" data-id="a01f26b" data-element_type="widget" data-widget_type="button.default" style="padding : 70px 0px 0px 0px ">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BCMHK%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">WHATSAPP 報價</span>
+		</span>
+					</a>
+		</div>
+				</div>					<br>		<div class="elementor-widget-container">
+			<div class="elementor-button-wrapper">
+	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+				<span class="elementor-button-content-wrapper">
+				<span class="elementor-button-text">留資料</span>
+</span>
+			</a>
+</div>
+		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-20e0ec79" data-id="20e0ec79" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" style="display:none">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-313ad7f6 elementor-widget elementor-widget-image" data-id="313ad7f6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
@@ -832,49 +874,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-09eba85" data-id="09eba85" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ac609c2 elementor-widget elementor-widget-image" data-id="ac609c2" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="225" height="225" src="images/Unknown.png" class="attachment-large size-large wp-image-159" alt="" decoding="async" loading="lazy" srcset="images/Unknown.png 225w, images/Unknown-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" style="width:100%;height:100%;max-width:225px">															</div>
-				</div>
-				<div class="elementor-element elementor-element-e854edc elementor-widget elementor-widget-heading" data-id="e854edc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">中國移動香港</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2abef7d elementor-widget elementor-widget-text-editor" data-id="2abef7d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><em class="qkunPe" style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">中國移動香港</em><span style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">有限公司（簡稱「</span><em class="qkunPe" style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">中國移動香港</em><span style="color: var( --e-global-color-5694dcf ); background-color: var( --e-global-color-3be00b3 ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-size: var( --e-global-typography-text-font-size );">」或「CMHK」）是香港一家流動電訊網絡商，成立於1994年6月28日，現為中國移動通信有限公司全資附屬機構。</span></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-9d93f90 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9d93f90" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-a01f26b elementor-align-center elementor-widget elementor-widget-button" data-id="a01f26b" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BCMHK%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">WHATSAPP 報價</span>
-		</span>
-					</a>
-		</div>
-				</div>					<br>		<div class="elementor-widget-container">
-			<div class="elementor-button-wrapper">
-	<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
-				<span class="elementor-button-content-wrapper">
-				<span class="elementor-button-text">留資料</span>
-</span>
-			</a>
-</div>
-		</div>
-				</div>
-					</div>
-		</div>
+				 
 							</div>
 		</section>
 					</div>
