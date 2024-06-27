@@ -155,7 +155,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 								<div class="elementor-element elementor-element-3d413e32 elementor-widget elementor-widget-jkit_nav_menu" data-id="3d413e32" data-element_type="widget" data-widget_type="jkit_nav_menu.default">
 				<div class="elementor-widget-container">
 			<div class="jeg-elementor-kit jkit-nav-menu break-point-mobile submenu-click-icon jeg_module_25_1_666fa01ec6b23" data-item-indicator="<i aria-hidden=&quot;true&quot; class=&quot;jki jki-chevron-down-line&quot;></i>"><button class="jkit-hamburger-menu"><i aria-hidden="true" class="jki jki-menu-11-light"></i></button>
-        <div class="jkit-menu-wrapper"><div class="jkit-menu-container"><ul id="menu-menu" class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"><!--<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址">WHATSAPP 索取報價</a></li>
+        <div class="jkit-menu-wrapper"><div class="jkit-menu-container"><ul id="menu-menu" class="jkit-menu jkit-menu-direction-flex jkit-submenu-position-top"><!--<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址">WHATSAPP 索取報價</a></li>
 <li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://www.broadband-quote.com/%e6%9c%89%e7%94%a8%e8%b3%87%e8%a8%8a/">有用資訊</a></li>
 <li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://www.broadband-quote.com/%e5%af%ac%e9%a0%bb%e9%80%9f%e5%ba%a6%e6%b8%ac%e8%a9%a6/">寬頻速度測試</a></li>-->
 </ul></div>
@@ -173,7 +173,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 								<div class="elementor-element elementor-element-1bf735af elementor-align-right elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="1bf735af" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Whatsapp報價</span>
 		</span>
@@ -246,7 +246,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 							<div class="elementor-element elementor-element-32cd4f11 elementor-mobile-align-justify elementor-tablet-align-justify elementor-align-center elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="32cd4f11" data-element_type="widget" data-widget_type="button.default">
 								<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-										<a href="tel:+85290799908" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+										<a href="tel:+85294549931" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 											<span class="elementor-button-content-wrapper">
 												<span class="elementor-button-icon elementor-align-icon-left">
 													<i aria-hidden="true" class="fas fa-phone-alt"></i>
@@ -260,7 +260,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 							<div class="elementor-element elementor-element-38781743 elementor-mobile-align-justify elementor-tablet-align-justify elementor-align-center elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="38781743" data-element_type="widget" data-widget_type="button.default">
 								<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-										<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+										<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 											<span class="elementor-button-content-wrapper">
 												<span class="elementor-button-icon elementor-align-icon-left">
 													<i aria-hidden="true" class="jki jki-whatsapp-1-light"></i>
@@ -273,7 +273,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 							</div>
 							<div class="elementor-element elementor-element-7aa27aae elementor-widget elementor-widget-jkit_animated_text" data-id="7aa27aae" data-element_type="widget" data-widget_type="jkit_animated_text.default">
 								<div class="elementor-widget-container">
-									<div class="jeg-elementor-kit jkit-animated-text jeg_module_25_4_666fa01ed6ce7" data-style="highlighted" data-text="9079 9908" data-shape="curly"><a href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">9079 9908</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path class="style-color" d="M6.5,75.5s25-29,50,0,50,0,50,0,25-32,50,0,50-1,50-1,25-30,50,1,50,0,50,0,27-28,50,0,50,0,50,0,26-25,50,0,36,7,36,7" transform="translate(-3.09 -56.78)"></path></svg></span><span class="normal-text style-color"></span></p></a></div>
+									<div class="jeg-elementor-kit jkit-animated-text jeg_module_25_4_666fa01ed6ce7" data-style="highlighted" data-text="9454 9931" data-shape="curly"><a href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">9454 9931</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path class="style-color" d="M6.5,75.5s25-29,50,0,50,0,50,0,25-32,50,0,50-1,50-1,25-30,50,1,50,0,50,0,27-28,50,0,50,0,50,0,26-25,50,0,36,7,36,7" transform="translate(-3.09 -56.78)"></path></svg></span><span class="normal-text style-color"></span></p></a></div>
 								</div>
 							</div>
 						</div>
@@ -302,7 +302,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 						<div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-ea5a679 elementor-widget elementor-widget-image" data-id="ea5a679" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BNetvigator%5D%20寬頻報價！" target="_blank">
+									<a href="https://wa.me/85294549931?text=你好！我想索取%20%5BNetvigator%5D%20寬頻報價！" target="_blank">
 										<img width="750" height="629" src="images/Netvigator.png" class="attachment-large size-large wp-image-445" alt="" decoding="async" loading="lazy" srcset="images/Netvigator.png 940w, images/Netvigator.png 300w, images/Netvigator.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;	   max-width:940px">
 									</a>
 								</div>
@@ -324,7 +324,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 							<div class="elementor-element elementor-element-d659bce elementor-align-justify elementor-widget elementor-widget-button" data-id="d659bce" data-element_type="widget" data-widget_type="button.default">
 								<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-										<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BNetvigator%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
+										<a href="https://wa.me/85294549931?text=你好！我想索取%20%5BNetvigator%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
 											<span class="elementor-button-content-wrapper">
 												<span class="elementor-button-text">立即申請!</span>
 											</span>
@@ -349,7 +349,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-e8aa453 elementor-widget elementor-widget-image" data-id="e8aa453" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BHKBN%5D%20寬頻報價！" target="_blank">
+								<a href="https://wa.me/85294549931?text=你好！我想索取%20%5BHKBN%5D%20寬頻報價！" target="_blank">
 									<!--<img width="750" height="629" src="images/Grey-Modern-New-Shoes-Facebook-Ad-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-788-%C3%97-788-%E5%83%8F%E7%B4%A0-940-%C3%97-788-%E5%83%8F%E7%B4%A0-1.png" class="attachment-large size-large wp-image-446" alt="" decoding="async" loading="lazy" srcset="images/Grey-Modern-New-Shoes-Facebook-Ad-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-788-%C3%97-788-%E5%83%8F%E7%B4%A0-940-%C3%97-788-%E5%83%8F%E7%B4%A0-1.png 940w, images/Grey-Modern-New-Shoes-Facebook-Ad-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-788-%C3%97-788-%E5%83%8F%E7%B4%A0-940-%C3%97-788-%E5%83%8F%E7%B4%A0-1-300x251.png 300w, images/Grey-Modern-New-Shoes-Facebook-Ad-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-788-%C3%97-788-%E5%83%8F%E7%B4%A0-940-%C3%97-788-%E5%83%8F%E7%B4%A0-1-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">	-->
 
 									<img width="750" height="629" src="images/hkbn_bus.jpeg" class="attachment-large size-large wp-image-446" alt="" decoding="async" loading="lazy" srcset="images/hkbn_bus.jpeg" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
@@ -374,7 +374,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 						<div class="elementor-element elementor-element-95ff5db elementor-align-justify elementor-widget elementor-widget-button" data-id="95ff5db" data-element_type="widget" data-widget_type="button.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-button-wrapper">
-									<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BHKBN%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+									<a href="https://wa.me/85294549931?text=你好！我想索取%20%5BHKBN%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
 										<span class="elementor-button-content-wrapper">
 											<span class="elementor-button-text">立即申請!</span>
 										</span>
@@ -402,7 +402,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 					<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-8eefab3 elementor-widget elementor-widget-image" data-id="8eefab3" data-element_type="widget" data-widget_type="image.default">
 							<div class="elementor-widget-container">
-								<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank">
+								<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank">
 									<!--	<img width="750" height="629" src="images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F.png" class="attachment-large size-large wp-image-153" alt="" decoding="async" loading="lazy" srcset="images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F.png 940w, images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-300x251.png 300w, images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">			-->
 									<img width="750" height="629" src="images/hgc.png" class="attachment-large size-large wp-image-153" alt="" decoding="async" loading="lazy" srcset="images/hgc-300x300.png 940w, images/hgc-300x300.png 300w, images/hgc-300x300.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
 
@@ -427,7 +427,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 						<div class="elementor-element elementor-element-2dcc923 elementor-align-justify elementor-widget elementor-widget-button" data-id="2dcc923" data-element_type="widget" data-widget_type="button.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-button-wrapper">
-									<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BHGC%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+									<a href="https://wa.me/85294549931?text=你好！我想索取%20%5BHGC%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
 										<span class="elementor-button-content-wrapper">
 											<span class="elementor-button-text">立即申請!</span>
 										</span>
@@ -456,7 +456,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 						<div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-20d8437 elementor-widget elementor-widget-image" data-id="20d8437" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
-									<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank">
+									<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank">
 										<img width="750" height="629" src="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png" class="attachment-large size-large wp-image-137" alt="" decoding="async" loading="lazy" srcset="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png 940w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-300x251.png 300w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
 									</a>
 								</div>
@@ -478,7 +478,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 							<div class="elementor-element elementor-element-640537e elementor-align-justify elementor-widget elementor-widget-button" data-id="640537e" data-element_type="widget" data-widget_type="button.default">
 								<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-										<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+										<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
 											<span class="elementor-button-content-wrapper">
 												<span class="elementor-button-text">立即申請!</span>
 											</span>
@@ -503,7 +503,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-55d9edd elementor-widget elementor-widget-image" data-id="55d9edd" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B5Gwifi%5D%20寬頻報價！" target="_blank">
+																<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5Gwifi%5D%20寬頻報價！" target="_blank">
 							<!--<img width="750" height="629" src="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-2.png" class="attachment-large size-large wp-image-146" alt="" decoding="async" loading="lazy" srcset="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-2.png 940w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-2-300x251.png 300w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-2-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">	-->		<img width="750" height="629" src="images/村屋.png" class="attachment-large size-large wp-image-146" alt="" decoding="async" loading="lazy" srcset="images/村屋.png 940w, images/村屋.png 300w, images/村屋.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">					</a>
 															</div>
 				</div>
@@ -523,7 +523,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-27a7024 elementor-align-justify elementor-widget elementor-widget-button" data-id="27a7024" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B5Gwifi%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5Gwifi%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">立即申請!</span>
 		</span>
@@ -547,7 +547,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d25706d elementor-widget elementor-widget-image" data-id="d25706d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bicable%5D%20寬頻報價！" target="_blank">
+																<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bicable%5D%20寬頻報價！" target="_blank">
 							<img width="750" height="629" src="images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0.png" class="attachment-large size-large wp-image-510" alt="" decoding="async" loading="lazy" srcset="images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0.png 940w, images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-300x251.png 300w, images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">								</a>
 															</div>
 				</div>
@@ -567,7 +567,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-60c743e elementor-align-justify elementor-widget elementor-widget-button" data-id="60c743e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B限時優惠%5D%20報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B限時優惠%5D%20報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">立即申請!</span>
 		</span>
@@ -637,7 +637,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-ceccb70 elementor-align-center elementor-widget elementor-widget-button" data-id="ceccb70" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhkbn%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bhkbn%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
@@ -680,7 +680,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-a01f26b elementor-align-center elementor-widget elementor-widget-button" data-id="a01f26b" data-element_type="widget" data-widget_type="button.default" style="padding : 70px 0px 0px 0px ">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5BCMHK%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5BCMHK%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
@@ -723,7 +723,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-6d719c0 elementor-align-center elementor-widget elementor-widget-button" data-id="6d719c0" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bpccw%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bpccw%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
@@ -766,7 +766,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-807871a elementor-align-center elementor-widget elementor-widget-button" data-id="807871a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bicable%5D寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bicable%5D寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
@@ -813,7 +813,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-0889f46 elementor-align-center elementor-widget elementor-widget-button" data-id="0889f46" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
@@ -856,7 +856,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				<div class="elementor-element elementor-element-045da40 elementor-align-center elementor-widget elementor-widget-button" data-id="045da40" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5Bsmartone%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bsmartone%5D%20寬頻報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float1" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">WHATSAPP 報價</span>
 		</span>
@@ -897,14 +897,14 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 								<div class="elementor-element elementor-element-4562e940 elementor-view-default elementor-widget elementor-widget-icon" data-id="4562e940" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址">
+			<a class="elementor-icon" href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址">
 			<i aria-hidden="true" class="jki jki-whatsapp-1-light"></i>			</a>
 		</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-bfba64f elementor-widget elementor-widget-jkit_animated_text" data-id="bfba64f" data-element_type="widget" data-widget_type="jkit_animated_text.default">
 				<div class="elementor-widget-container">
-			<div class="jeg-elementor-kit jkit-animated-text jeg_module_25_14_666fa01f210e6" data-style="highlighted" data-text="9079 9908" data-shape="curly"><a href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">9079 9908</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path class="style-color" d="M6.5,75.5s25-29,50,0,50,0,50,0,25-32,50,0,50-1,50-1,25-30,50,1,50,0,50,0,27-28,50,0,50,0,50,0,26-25,50,0,36,7,36,7" transform="translate(-3.09 -56.78)"></path></svg></span><span class="normal-text style-color"></span></p></a></div>		</div>
+			<div class="jeg-elementor-kit jkit-animated-text jeg_module_25_14_666fa01f210e6" data-style="highlighted" data-text="9454 9931" data-shape="curly"><a href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！我想查詢的地址"><p class="animated-text"><span class="normal-text style-color"></span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">9454 9931</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path class="style-color" d="M6.5,75.5s25-29,50,0,50,0,50,0,25-32,50,0,50-1,50-1,25-30,50,1,50,0,50,0,27-28,50,0,50,0,50,0,26-25,50,0,36,7,36,7" transform="translate(-3.09 -56.78)"></path></svg></span><span class="normal-text style-color"></span></p></a></div>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-ea86e26 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea86e26" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
@@ -913,7 +913,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 								<div class="elementor-element elementor-element-e691e63 elementor-mobile-align-justify elementor-tablet-align-justify elementor-align-center elementor-widget elementor-widget-button" data-id="e691e63" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="tel:+85290799908" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="tel:+85294549931" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-phone-alt"></i>			</span>
@@ -930,7 +930,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 								<div class="elementor-element elementor-element-f48f68d elementor-mobile-align-justify elementor-tablet-align-justify elementor-align-center elementor-widget elementor-widget-button" data-id="f48f68d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://wa.me/85290799908?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
+			<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B網上格價王%5D%20寬頻報價！" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-shrink" role="button">
 						<span class="elementor-button-content-wrapper">
 							<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="jki jki-whatsapp-1-light"></i>			</span>
@@ -1008,7 +1008,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
     </script>
     <!-- End Meta Pixel Event Code -->
     <div id="fb-pxl-ajax-code"></div>
-<div class="joinchat joinchat--right joinchat--btn" data-settings="{&quot;telephone&quot;:&quot;85290799908&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:1,&quot;whatsapp_web&quot;:true,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;你好！我想索取 [網上格價王] 寬頻報價！&quot;,&quot;message_hash&quot;:&quot;&quot;}">
+<div class="joinchat joinchat--right joinchat--btn" data-settings="{&quot;telephone&quot;:&quot;85294549931&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:1,&quot;whatsapp_web&quot;:true,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:10,&quot;message_badge&quot;:false,&quot;message_send&quot;:&quot;你好！我想索取 [網上格價王] 寬頻報價！&quot;,&quot;message_hash&quot;:&quot;&quot;}">
 	<div class="joinchat__button">
 		<div class="joinchat__button__open"></div>
 									</div>
