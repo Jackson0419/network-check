@@ -298,7 +298,54 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4a3c5d76 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4a3c5d76" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-60bde779" data-id="60bde779" data-element_type="column">
+										<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d418a01" data-id="d418a01" data-element_type="column">
+				<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-element elementor-element-20d8437 elementor-widget elementor-widget-image" data-id="20d8437" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-widget-container">
+							<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank">
+								<img width="750" height="629" src="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png" class="attachment-large size-large wp-image-137" alt="" decoding="async" loading="lazy" srcset="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png 940w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-300x251.png 300w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
+							</a>
+						</div>
+					</div>
+					<div class="elementor-element elementor-element-deb8e71 elementor-align-center elementor-tablet-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="deb8e71" data-element_type="widget" data-widget_type="icon-list.default">
+						<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+								<li class="elementor-icon-list-item">
+									<span class="elementor-icon-list-text">手機上台月費計劃</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="elementor-element elementor-element-6f5cfd6 elementor-widget elementor-widget-jkit_animated_text" data-id="6f5cfd6" data-element_type="widget" data-widget_type="jkit_animated_text.default">
+						<div class="elementor-widget-container">
+							<div class="jeg-elementor-kit jkit-animated-text jeg_module_25_9_666fa01ef1231" data-style="highlighted" data-text="$48" data-shape="double"><p class="animated-text"><span class="normal-text style-color">低至</span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">$48</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path class="style-color" d="M3.69,18.7s240.11-30,492.31,0" transform="translate(-3.14 -0.87)"></path><path class="style-color" d="M3.65,144S248.43,128,496,144" transform="translate(-3.14 -0.87)"></path></svg></span><span class="normal-text style-color"></span></p></div>
+						</div>
+					</div>
+					<div class="elementor-element elementor-element-640537e elementor-align-justify elementor-widget elementor-widget-button" data-id="640537e" data-element_type="widget" data-widget_type="button.default">
+						<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+								<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+									<span class="elementor-button-content-wrapper">
+										<span class="elementor-button-text">立即申請!</span>
+									</span>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="elementor-element elementor-element-d659bce elementor-align-justify elementor-widget elementor-widget-button" data-id="d659bce" data-element_type="widget" data-widget_type="button.default">
+						<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+								<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
+									<span class="elementor-button-content-wrapper">
+										<span class="elementor-button-text">留資料</span>
+									</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+</div>
+					<div  style ="display:none" class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-60bde779" data-id="60bde779" data-element_type="column">
 						<div class="elementor-widget-wrap elementor-element-populated">
 							<div class="elementor-element elementor-element-ea5a679 elementor-widget elementor-widget-image" data-id="ea5a679" data-element_type="widget" data-widget_type="image.default">
 								<div class="elementor-widget-container">
@@ -452,53 +499,7 @@ src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
 		</section>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-49e0789 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49e0789" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d418a01" data-id="d418a01" data-element_type="column">
-						<div class="elementor-widget-wrap elementor-element-populated">
-							<div class="elementor-element elementor-element-20d8437 elementor-widget elementor-widget-image" data-id="20d8437" data-element_type="widget" data-widget_type="image.default">
-								<div class="elementor-widget-container">
-									<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank">
-										<img width="750" height="629" src="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png" class="attachment-large size-large wp-image-137" alt="" decoding="async" loading="lazy" srcset="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png 940w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-300x251.png 300w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
-									</a>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-deb8e71 elementor-align-center elementor-tablet-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="deb8e71" data-element_type="widget" data-widget_type="icon-list.default">
-								<div class="elementor-widget-container">
-									<ul class="elementor-icon-list-items">
-										<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-text">手機上台月費計劃</span>
-										</li>
-									</ul>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-6f5cfd6 elementor-widget elementor-widget-jkit_animated_text" data-id="6f5cfd6" data-element_type="widget" data-widget_type="jkit_animated_text.default">
-								<div class="elementor-widget-container">
-									<div class="jeg-elementor-kit jkit-animated-text jeg_module_25_9_666fa01ef1231" data-style="highlighted" data-text="$48" data-shape="double"><p class="animated-text"><span class="normal-text style-color">低至</span><span class="dynamic-wrapper style-gradient"><span class="dynamic-text">$48</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" preserveAspectRatio="none"><path class="style-color" d="M3.69,18.7s240.11-30,492.31,0" transform="translate(-3.14 -0.87)"></path><path class="style-color" d="M3.65,144S248.43,128,496,144" transform="translate(-3.14 -0.87)"></path></svg></span><span class="normal-text style-color"></span></p></div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-640537e elementor-align-justify elementor-widget elementor-widget-button" data-id="640537e" data-element_type="widget" data-widget_type="button.default">
-								<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-										<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
-											<span class="elementor-button-content-wrapper">
-												<span class="elementor-button-text">立即申請!</span>
-											</span>
-										</a>
-									</div>
-								</div>
-							</div>
-							<div class="elementor-element elementor-element-d659bce elementor-align-justify elementor-widget elementor-widget-button" data-id="d659bce" data-element_type="widget" data-widget_type="button.default">
-								<div class="elementor-widget-container">
-									<div class="elementor-button-wrapper">
-										<a href="https://forms.gle/seC7zJLt6CwDXrhr8" target="_blank" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-float" role="button">
-											<span class="elementor-button-content-wrapper">
-												<span class="elementor-button-text">留資料</span>
-											</span>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-		</div>
+					 <!-- hihihi-->
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ddceb5a" data-id="ddceb5a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-55d9edd elementor-widget elementor-widget-image" data-id="55d9edd" data-element_type="widget" data-widget_type="image.default">
