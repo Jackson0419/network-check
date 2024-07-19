@@ -86,64 +86,8 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
  
 <script src="js/public.js" id="pys-js"></script>
 
-<!-- Google Analytics snippet added by Site Kit -->
-<script src="https://www.googletagmanager.com/gtag/js?id=UA-255395780-1" id="google_gtagjs-js" async=""></script>
- 
-
-<!-- End Google Analytics snippet added by Site Kit -->
-  
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-
-gtag('config', 'AW-11078824903');
-</script>
-
-<script>
-window.addEventListener('load', function () {
-document.querySelectorAll('[href*="wa.me"]').forEach(function (e) {
-e.addEventListener('click', function () {
-gtag('event', 'conversion', { 'send_to': 'AW-11078824903/U6dnCPDE7YkYEMfn5aIp' });
-
-})
-})
-})
-</script>
 
 
-<script>
-window.addEventListener('load', function () {
-document.querySelectorAll('[href*="tel"]').forEach(function (e) {
-e.addEventListener('click', function () {
-gtag('event', 'conversion', { 'send_to': 'AW-11078824903/WtLKCPW-m4sYEMfn5aIp' });
-
-})
-})
-})
-</script> 
-
-<!-- Meta Pixel Code -->
-<script type="text/javascript">
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-</script>
-<!-- End Meta Pixel Code -->
-<script type="text/javascript">
-  fbq('init', '1150762578924438', {}, {
-    "agent": "wordpress-6.1.6-3.0.8"
-});
-  </script><script type="text/javascript">
-  fbq('track', 'PageView', []);
-  </script>
-<!-- Meta Pixel Code -->
-<noscript>
-<img height="1" width="1" style="display:none" alt="fbpx"
-src="https://www.facebook.com/tr?id=1150762578924438&ev=PageView&noscript=1" />
-</noscript>
 <!-- End Meta Pixel Code -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
 <body data-rsssl="1" class="home page-template page-template-elementor_canvas page page-id-25 wp-embed-responsive jkit-color-scheme is-light-theme no-js singular no-widgets elementor-default elementor-template-canvas elementor-kit-80 elementor-page elementor-page-25">
