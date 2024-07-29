@@ -504,7 +504,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 								<div class="elementor-element elementor-element-d25706d elementor-widget elementor-widget-image" data-id="d25706d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bicable%5D%20寬頻報價！" target="_blank">
-							<img width="750" height="629" src="images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0.png" class="attachment-large size-large wp-image-510" alt="" decoding="async" loading="lazy" srcset="images/discount.png 940w, images/discount-300x251.png 300w, images/discount-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">								</a>
+							<img width="750" height="629" src="images/discount.png" class="attachment-large size-large wp-image-510" alt="" decoding="async" loading="lazy" srcset="images/discount.png 940w, images/discount-300x251.png 300w, images/discount-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-78dd088 elementor-align-center elementor-tablet-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="78dd088" data-element_type="widget" data-widget_type="icon-list.default">
