@@ -258,7 +258,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 					<div class="elementor-element elementor-element-20d8437 elementor-widget elementor-widget-image" data-id="20d8437" data-element_type="widget" data-widget_type="image.default">
 						<div class="elementor-widget-container">
 							<a href="https://wa.me/85294549931?text=你好！我想索取%20%5B5GSIM%5D%20報價！" target="_blank">
-								<img width="750" height="629" src="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png" class="attachment-large size-large wp-image-137" alt="" decoding="async" loading="lazy" srcset="images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88.png 940w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-300x251.png 300w, images/%E6%9D%91%E5%B1%8B%E5%94%90%E6%A8%93%E5%B7%A5%E5%BB%A0%E5%A4%A7%E5%BB%88-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
+								<img width="750" height="629" src="images/t1.png" class="attachment-large size-large wp-image-137" alt="" decoding="async" loading="lazy" srcset="images/t1.png 940w, images/t1-300x251.png 300w, images/t1-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
 							</a>
 						</div>
 					</div>
@@ -406,7 +406,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 							<div class="elementor-widget-container">
 								<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bhgc%5D%20寬頻報價！" target="_blank">
 									<!--	<img width="750" height="629" src="images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F.png" class="attachment-large size-large wp-image-153" alt="" decoding="async" loading="lazy" srcset="images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F.png 940w, images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-300x251.png 300w, images/Blue-Gradient-Web-Hosting-Price-List-Instagram-Post-Facebook-%E5%B8%96%E5%AD%90-%E6%A9%AB%E5%BC%8F-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">			-->
-									<img width="750" height="629" src="images/hgc.png" class="attachment-large size-large wp-image-153" alt="" decoding="async" loading="lazy" srcset="images/hgc-300x300.png 940w, images/hgc-300x300.png 300w, images/hgc-300x300.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
+									<img width="750" height="629" src="images/gg.png" class="attachment-large size-large wp-image-153" alt="" decoding="async" loading="lazy" srcset="images/gg-300x300.png 940w, images/gg-300x300.png 300w, images/gg-300x300.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">
 
 
 								</a>
@@ -504,7 +504,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 								<div class="elementor-element elementor-element-d25706d elementor-widget elementor-widget-image" data-id="d25706d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="https://wa.me/85294549931?text=你好！我想索取%20%5Bicable%5D%20寬頻報價！" target="_blank">
-							<img width="750" height="629" src="images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0.png" class="attachment-large size-large wp-image-510" alt="" decoding="async" loading="lazy" srcset="images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0.png 940w, images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-300x251.png 300w, images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">								</a>
+							<img width="750" height="629" src="images/%E9%9B%BB%E8%A8%8A%E5%85%AC%E5%8F%B8%E9%99%90%E6%99%82%E5%84%AA%E6%83%A0.png" class="attachment-large size-large wp-image-510" alt="" decoding="async" loading="lazy" srcset="images/discount.png 940w, images/discount-300x251.png 300w, images/discount-768x644.png 768w" sizes="(max-width: 750px) 100vw, 750px" style="width:100%;height:83.83%;max-width:940px">								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-78dd088 elementor-align-center elementor-tablet-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="78dd088" data-element_type="widget" data-widget_type="icon-list.default">
@@ -571,7 +571,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-571d630 elementor-widget elementor-widget-image" data-id="571d630" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="365" height="365" src="images/hkbn.png" class="attachment-large size-large wp-image-15" alt="" decoding="async" loading="lazy" srcset="images/hkbn.png 365w, images/hkbn-300x300.png 300w, images/hkbn-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
+															<img width="365" height="365" src="images/bb.png" class="attachment-large size-large wp-image-15" alt="" decoding="async" loading="lazy" srcset="images/bb.png 365w, images/bb-300x300.png 300w, images/bb-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-e42f192 elementor-widget elementor-widget-heading" data-id="e42f192" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -615,7 +615,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ac609c2 elementor-widget elementor-widget-image" data-id="ac609c2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="225" height="225" src="images/Unknown.png" class="attachment-large size-large wp-image-159" alt="" decoding="async" loading="lazy" srcset="images/Unknown.png 225w, images/Unknown-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" style="width:100%;height:100%;max-width:225px">															</div>
+															<img width="225" height="225" src="images/china.png" class="attachment-large size-large wp-image-159" alt="" decoding="async" loading="lazy" srcset="images/china.png 225w, images/china-150x150.png 150w" sizes="(max-width: 225px) 100vw, 225px" style="width:100%;height:100%;max-width:225px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-e854edc elementor-widget elementor-widget-heading" data-id="e854edc" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -701,7 +701,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-11750c7d elementor-widget elementor-widget-image" data-id="11750c7d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="365" height="365" src="images/icable.png" class="attachment-large size-large wp-image-17" alt="" decoding="async" loading="lazy" srcset="images/icable.png 365w, images/icable-300x300.png 300w, images/icable-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
+															<img width="365" height="365" src="images/iyo.png" class="attachment-large size-large wp-image-17" alt="" decoding="async" loading="lazy" srcset="images/iyo.png 365w, images/iyo-300x300.png 300w, images/iyo-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-3fd0b705 elementor-widget elementor-widget-heading" data-id="3fd0b705" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -748,7 +748,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1485dc3c elementor-widget elementor-widget-image" data-id="1485dc3c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="365" height="365" src="images/hgc.png" class="attachment-large size-large wp-image-18" alt="" decoding="async" loading="lazy" srcset="images/hgc.png 365w, images/hgc-300x300.png 300w, images/hgc-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
+															<img width="365" height="365" src="images/gg.png" class="attachment-large size-large wp-image-18" alt="" decoding="async" loading="lazy" srcset="images/gg.png 365w, images/gg-300x300.png 300w, images/gg-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-7f92ce09 elementor-widget elementor-widget-heading" data-id="7f92ce09" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -791,7 +791,7 @@ body,input,textarea,button,.button,.faux-button,.wp-block-button__link,.wp-block
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4cc26533 elementor-widget elementor-widget-image" data-id="4cc26533" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="365" height="365" src="images/smatrtone.png" class="attachment-large size-large wp-image-19" alt="" decoding="async" loading="lazy" srcset="images/smatrtone.png 365w, images/smatrtone-300x300.png 300w, images/smatrtone-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
+															<img width="365" height="365" src="images/to.png" class="attachment-large size-large wp-image-19" alt="" decoding="async" loading="lazy" srcset="images/to.png 365w, images/to-300x300.png 300w, images/to-150x150.png 150w" sizes="(max-width: 365px) 100vw, 365px" style="width:100%;height:100%;max-width:365px">															</div>
 				</div>
 				<div class="elementor-element elementor-element-461d3df1 elementor-widget elementor-widget-heading" data-id="461d3df1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
